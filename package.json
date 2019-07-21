@@ -13,21 +13,27 @@
   },
   "dependencies": {
     "contentful": "^7.8.2",
+    "fomantic-ui-css": "^2.7.6",
     "next": "^9.0.2",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "semantic-ui-react": "^0.87.3"
   },
   "devDependencies": {
-    "babel-eslint": "9.x",
-    "eslint": "5.x",
+    "@zeit/next-css": "^1.0.1",
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.0.1",
     "eslint-config-prettier": "^6.0.0",
     "eslint-config-react-app": "^4.0.1",
-    "eslint-plugin-flowtype": "2.x",
-    "eslint-plugin-import": "2.x",
-    "eslint-plugin-jsx-a11y": "6.x",
+    "eslint-plugin-flowtype": "^3.12.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-prettier": "^3.1.0",
-    "eslint-plugin-react": "7.x",
-    "eslint-plugin-react-hooks": "1.5.0",
-    "prettier": "^1.18.2"
+    "eslint-plugin-react": "^7.14.2",
+    "eslint-plugin-react-hooks": "^1.6.1",
+    "file-loader": "^4.1.0",
+    "prettier": "^1.18.2",
+    "url-loader": "^2.1.0",
+    "webpack": "^4.36.1"
   }
 }
